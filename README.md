@@ -31,3 +31,8 @@ qsbk.py 这个文件是照着[Python爬虫实战一之爬取糗事百科段子](
 ### 关于 pyspider 和 scrapy 的比较
 
 这篇[中文的博客](http://f.dataguru.cn/thread-715820-1-1.html)讲的不错，用 google 搜错 pyspider vs scrapy 也可以看到很多英文的分析。可以去详细了解一下。
+
+
+---目前关于这个问题的答案收集---
+
+http://blog.csdn.net/webstudy8/article/details/51626395
